@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "ngrx-store-sample"
+  "defaultProject": "ngrx-store-sample",
+  "cli": {
+    "analytics": "d472b487-1765-46eb-9576-a27d4cf57b51"
+  }
 }
